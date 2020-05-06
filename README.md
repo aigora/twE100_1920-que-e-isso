@@ -8,7 +8,7 @@ Programación en C de una simulación del juego de mesa "Hundir la flota".
 
 Diego Llamas Butrón (dllamas007)
 
-Juan Torres Rodríguez-Arana (JuanT23)
+Juan Torres Rodríguez-Arana (ChemaT23)
 
 Jaime Moreno Bau (jaimemoreno189)
 
