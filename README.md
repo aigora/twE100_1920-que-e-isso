@@ -1,8 +1,11 @@
 ## Título del proyecto 
 
-HUNDIR LA FLOTA ULTRABOOST
+ABUSO NAVAL
+Abuso Naval se trata de un juego, similar al clásico juego de mesa "Hundir la flota", pero el usuario es el único que busca barcos.
+El programa le pide al usuario en qué grado de dificultad desea jugar, y selecciona de manera aleatoria entre 3 archivos creados previamente con los tableros del juego.
+El juego también se guarda automáticamente cuando se cierra la ventana de comandos, y te da la opción de continuar la partida la próxima vez que la abres.
 
-Programación en C de una simulación del juego de mesa "Hundir la flota".
+Para jugar al juego, es necesario descargarse tanto el archivo .cpp, como todos los archivos .txt adjuntados (estos últimos son los tableros con la distribución de los distintos barcos).
 
 ## Integrantes del equipo
 
@@ -14,14 +17,5 @@ Jaime Moreno Bau (jaimemoreno189)
 
 Javier Garate Asensio (javiergarate420)
 
-## Objetivos del trabajo
-
--Conseguir que la máquina coloque aleatoriamente los barcos en las casillas.
-
--Conseguir que el usuario pueda elegir la dificultad de juego.
-
--Conseguir que la interfaz reaccione de manera diferente cuando se acierta o se falla, y cuando se consiga hundir un barco.
-
--Conseguir que el usuario pueda guardar la partida en un archivo y reanudarla más tarde.
 
 
